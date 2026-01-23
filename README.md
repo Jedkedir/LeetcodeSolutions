@@ -1,2 +1,3 @@
-# LeetcodeSolutions
-Solutions for leetcode problems.
+# LeetCode Solutions
+
+A collection of my LeetCode problem solutions in multiple programming languages.
