@@ -3,7 +3,7 @@ class Solution:
         count = Counter(nums)
         n = len(nums)
         res = []
-        for num in set(nums):
-            if count[num] > n//3:
+        for num,freq in count.items():
+            if freq > n//3:
                 res.append(num)
         return res
